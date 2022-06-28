@@ -4,3 +4,12 @@
 	justify-content: space-between;
 	margin: 0 auto 30px auto;
 }
+
+@media screen and (max-width: 767px) {
+	.preview__info {
+		max-width: 316px;
+		display: flex;
+		flex-direction: column;
+		margin: 0 auto 37px auto;
+	}
+}

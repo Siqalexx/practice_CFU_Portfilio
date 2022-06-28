@@ -1,0 +1,13 @@
+.burger__button {
+	background: none;
+	border: none;
+	background-image: url(../../../images/button-burger.svg);
+	width: 33px;
+	height: 20px;
+	position: absolute;
+	right: 30px;
+	top: 82px;
+	cursor: pointer;
+	visibility: hidden;
+	opacity: 0;
+}

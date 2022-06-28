@@ -1,3 +1,12 @@
 .preview {
+	position: relative;
 	padding-bottom: 105px;
+}
+
+@media screen and (max-width: 767px) {
+	.preview {
+		max-width: 400px;
+		margin: 0 auto;
+		padding: 65px 0 83px 0;
+	}
 }

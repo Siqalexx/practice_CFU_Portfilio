@@ -1,5 +1,17 @@
 .preview__photo {
 	max-width: 945px;
+	min-height: 387px;
 	display: block;
 	margin: 0 auto;
+	background-image: url("../../../images/PhotoMan.png");
+}
+@media screen and (max-width: 767px) {
+	.preview__photo {
+		max-width: 316px;
+		min-height: 478px;
+		display: block;
+		margin: 0 auto;
+
+		background-image: url("../../../images/SmallMan.png");
+	}
 }

@@ -7,3 +7,9 @@
 	align-self: flex-end;
 	font-weight: 500;
 }
+@media screen and (max-width: 767px) {
+	.preview__job {
+		margin-top: 23px;
+		align-self: flex-start;
+	}
+}
