@@ -37,3 +37,8 @@
 @import url(../blocks/skill/__stars/skill__stars.css);
 @import url(../blocks/skill/__image/skill__image.css);
 @import url(../blocks/skill/__name/skill__name.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__text/footer__text.css);
