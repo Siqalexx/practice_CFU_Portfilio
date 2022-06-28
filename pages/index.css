@@ -27,6 +27,17 @@
 @import url(../blocks/preview/__lang/preview__lang.css);
 @import url(../blocks/preview/__lang/_active/preview__lang_active.css);
 
+@import url(../blocks/skills/skills.css);
+@import url(../blocks/skills/__title/skills__title.css);
+@import url(../blocks/skills/__text/skills__text.css);
+@import url(../blocks/skill/skill.css);
+@import url(../blocks/skill/__card/skill__card.css);
+@import url(../blocks/skill/__star/skill__star.css);
+@import url(../blocks/skill/__star/_unactive/skill__start_unactive.css);
+@import url(../blocks/skill/__stars/skill__stars.css);
+@import url(../blocks/skill/__image/skill__image.css);
+@import url(../blocks/skill/__name/skill__name.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
