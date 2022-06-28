@@ -18,3 +18,11 @@
 @import url(../blocks/portfolio/__title/portfolio__title.css);
 @import url(../blocks/portfolio/__site/portfolio__site.css);
 @import url(../blocks/portfolio/__link/portfolio__link.css);
+
+@import url(../blocks/preview/preview.css);
+@import url(../blocks/preview/__photo/preview__photo.css);
+@import url(../blocks/preview/__info/preview__info.css);
+@import url(../blocks/preview/__name/preview__name.css);
+@import url(../blocks/preview/__job/preview__job.css);
+@import url(../blocks/preview/__lang/preview__lang.css);
+@import url(../blocks/preview/__lang/_active/preview__lang_active.css);

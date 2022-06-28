@@ -1,0 +1,6 @@
+.preview__info {
+	max-width: 945px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto 30px auto;
+}
