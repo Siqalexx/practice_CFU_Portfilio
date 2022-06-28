@@ -1,0 +1,10 @@
+.contacts__text {
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #070707;
+	font-weight: 500;
+	max-width: 275px;
+	margin: 0;
+	padding-bottom: 30px;
+}
