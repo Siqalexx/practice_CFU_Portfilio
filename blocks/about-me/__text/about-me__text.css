@@ -1,0 +1,12 @@
+.about-me__text {
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #070707;
+	margin: auto;
+	padding: 0 0 50px 0;
+}
+
+.about-me__text:last-child {
+	padding-bottom: 107px;
+}
