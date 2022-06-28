@@ -1,0 +1,9 @@
+.preview__job {
+	font-family: "Gilroy-Medium";
+	font-size: 18px;
+	line-height: 22px;
+	color: #070707;
+	margin: 0;
+	max-width: 155px;
+	align-self: flex-end;
+}
