@@ -1,0 +1,8 @@
+.header {
+	display: flex;
+	margin: 0 auto;
+	max-width: 940px;
+	border: 1px solid #828282;
+	border-style: none none solid none;
+	margin-bottom: 40px;
+}
