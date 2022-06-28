@@ -1,0 +1,10 @@
+.footer__text {
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	color: #828282;
+	font-weight: 500;
+	max-width: 243px;
+	margin: 0;
+	padding-bottom: 123px;
+}
