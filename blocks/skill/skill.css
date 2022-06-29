@@ -2,3 +2,8 @@
 	display: flex;
 	gap: 90px;
 }
+@media screen and (max-width: 767px) {
+	.skill {
+		flex-direction: column;
+	}
+}
