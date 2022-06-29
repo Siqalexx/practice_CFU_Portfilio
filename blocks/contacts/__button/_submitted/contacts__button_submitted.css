@@ -1,0 +1,6 @@
+.contacts__button_submitted {
+	background-color: green;
+	opacity: 1;
+	transition: none;
+	pointer-events: none;
+}
