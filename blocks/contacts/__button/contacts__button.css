@@ -17,6 +17,12 @@
 	opacity: 0.6;
 }
 
+@media screen and (max-width: 980px) {
+	.contacts__button {
+		width: 260px;
+	}
+}
+
 @media screen and (max-width: 767px) {
 	.contacts__button {
 		width: 316px;
