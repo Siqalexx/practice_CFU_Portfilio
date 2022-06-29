@@ -5,3 +5,12 @@
 	padding: 32px 0;
 	list-style: none;
 }
+@media screen and (max-width: 980px) {
+	.header__links {
+		display: flex;
+		gap: 111px;
+		margin: 0;
+		padding: 32px 0;
+		list-style: none;
+	}
+}

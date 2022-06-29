@@ -8,8 +8,15 @@
 	z-index: 2;
 	background-color: #fff;
 }
+
+@media screen and (max-width: 980px) {
+	.header {
+		max-width: 760px;
+	}
+}
 @media screen and (max-width: 767px) {
 	.header {
+		max-width: 300px;
 		display: none;
 	}
 }

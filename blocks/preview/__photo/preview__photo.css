@@ -15,3 +15,11 @@
 		background-image: url("../../../images/SmallMan.png");
 	}
 }
+@media screen and (max-width: 980px) {
+	.preview__photo {
+		max-width: 760px;
+		min-height: 387px;
+		display: block;
+		margin: 0 auto;
+	}
+}
