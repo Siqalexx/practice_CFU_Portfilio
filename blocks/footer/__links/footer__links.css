@@ -5,3 +5,8 @@
 	margin: 0;
 	padding: 86px 0 46px 0;
 }
+@media screen and (max-width: 767px) {
+	.footer__links {
+		padding: 48px 0 49px 0;
+	}
+}

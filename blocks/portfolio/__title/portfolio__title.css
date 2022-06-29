@@ -6,3 +6,9 @@
 	margin: 0;
 	padding: 113px 0 47px 0;
 }
+
+@media screen and (max-width: 767px) {
+	.portfolio__title {
+		padding: 81px 0 65px 0;
+	}
+}

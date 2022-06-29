@@ -10,3 +10,9 @@
 .about-me__text:last-child {
 	padding-bottom: 107px;
 }
+
+@media screen and (max-width: 767px) {
+	.about-me__text:last-child {
+		padding-bottom: 76px;
+	}
+}
