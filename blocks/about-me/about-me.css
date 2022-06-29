@@ -5,6 +5,13 @@
 	align-items: center;
 }
 
+@media screen and (max-width: 980px) {
+	.about-me {
+		max-width: 760px;
+		margin: 0 auto;
+	}
+}
+
 @media screen and (max-width: 767px) {
 	.about-me {
 		max-width: 375px;
