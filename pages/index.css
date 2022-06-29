@@ -38,6 +38,12 @@
 @import url(../blocks/skill/__image/skill__image.css);
 @import url(../blocks/skill/__name/skill__name.css);
 
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__title/contacts__title.css);
+@import url(../blocks/contacts/__text/contacts__text.css);
+@import url(../blocks/contacts/__button/contacts__button.css);
+@import url(../blocks/contacts/__button/_submitted/contacts__button_submitted.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
@@ -45,6 +51,20 @@
 
 @import url(../blocks/burger/__button/burger__button.css);
 @import url(../blocks/burger/__button/_active/burger__button_active.css);
+
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__form/popup__form.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__input/popup__input.css);
+@import url(../blocks/popup/__input-error/popup__input-error.css);
+@import url(../blocks/popup/__submit/popup__submit.css);
+@import url(../blocks/popup/__exit/popup__exit.css);
+@import url(../blocks/popup/__input/_type/_error/popup__input_type_error.css);
+@import url(../blocks/popup/__submit/_disabled/popup__button_disabled.css);
+@import url(../blocks/popup/__input-error/_visible/popup__input-error_visible.css);
+
 @import url(../blocks/burger/__popup/burger__popup.css);
 @import url(../blocks/burger/__links/burger__links.css);
 @import url(../blocks/burger/__link/burger__link.css);
@@ -52,3 +72,4 @@
 @import url(../blocks/burger/__close-button/burger__close-button.css);
 @import url(../blocks/burger/__lang/burger__lang.css);
 @import url(../blocks/burger/__lang/_active/burger__lang_active.css);
+
