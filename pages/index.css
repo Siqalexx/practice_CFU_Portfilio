@@ -52,6 +52,7 @@
 @import url(../blocks/burger/__button/burger__button.css);
 @import url(../blocks/burger/__button/_active/burger__button_active.css);
 
+
 @import url(../blocks/popup/popup.css);
 @import url(../blocks/popup/_opened/popup_opened.css);
 @import url(../blocks/popup/__form/popup__form.css);
@@ -63,3 +64,12 @@
 @import url(../blocks/popup/__input/_type/_error/popup__input_type_error.css);
 @import url(../blocks/popup/__submit/_disabled/popup__button_disabled.css);
 @import url(../blocks/popup/__input-error/_visible/popup__input-error_visible.css);
+
+@import url(../blocks/burger/__popup/burger__popup.css);
+@import url(../blocks/burger/__links/burger__links.css);
+@import url(../blocks/burger/__link/burger__link.css);
+@import url(../blocks/burger/__link/_active/burger__link_active.css);
+@import url(../blocks/burger/__close-button/burger__close-button.css);
+@import url(../blocks/burger/__lang/burger__lang.css);
+@import url(../blocks/burger/__lang/_active/burger__lang_active.css);
+
