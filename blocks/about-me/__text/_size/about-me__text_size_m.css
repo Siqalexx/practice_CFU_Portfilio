@@ -1,3 +1,10 @@
 .about-me__text_size_m {
 	max-width: 350px;
 }
+
+@media screen and (max-width: 767px) {
+	.about-me__text_size_m {
+		max-width: 270px;
+		margin: 0 auto;
+	}
+}
