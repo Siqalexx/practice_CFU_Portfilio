@@ -2,3 +2,10 @@
 	max-width: 936px;
 	padding-bottom: 45px;
 }
+
+@media screen and (max-width: 767px) {
+	.portfolio__site {
+		max-width: 316px;
+		padding-bottom: 33px;
+	}
+}
