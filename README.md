@@ -16,4 +16,4 @@
 
 **Ссылка на GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://siqalexx.github.io/mesto/)
+* [Ссылка на GitHub Pages](https://siqalexx.github.io/practice_CFU_Portfilio/)
