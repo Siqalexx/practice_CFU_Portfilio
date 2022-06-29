@@ -6,3 +6,8 @@
 	color: #070707;
 	margin: 70px 0 84px 0;
 }
+@media screen and (max-width: 767px) {
+	.skills__text {
+		margin: 50px 0 71px 0;
+	}
+}
