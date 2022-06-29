@@ -5,6 +5,10 @@
 	color: #070707;
 	font-weight: 500;
 	max-width: 275px;
-	margin: 0;
-	padding-bottom: 30px;
+	margin: 20px 0 30px 0;
+}
+@media screen and (max-width: 767px) {
+	.contacts__text {
+		margin: 27px 0 40px 0;
+	}
 }
