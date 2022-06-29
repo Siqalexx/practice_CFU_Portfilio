@@ -1,0 +1,8 @@
+.burger__links {
+	list-style: none;
+	display: flex;
+	gap: 68px;
+	flex-direction: column;
+	margin: 0;
+	padding: 66px 0 0 26px;
+}

@@ -1,0 +1,9 @@
+.footer__link {
+	max-width: 40px;
+	transition: opacity 1s ease;
+	margin: 0;
+}
+
+.footer__link:hover {
+	opacity: 0.6;
+}

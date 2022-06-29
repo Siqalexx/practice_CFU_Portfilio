@@ -1,0 +1,22 @@
+.header {
+	display: flex;
+	top: 0;
+	margin: 0 auto 40px auto;
+	max-width: 940px;
+	border: 1px solid #828282;
+	border-style: none none solid none;
+	z-index: 2;
+	background-color: #fff;
+}
+
+@media screen and (max-width: 980px) {
+	.header {
+		max-width: 760px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.header {
+		max-width: 300px;
+		display: none;
+	}
+}

@@ -1,0 +1,26 @@
+.portfolio__link {
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	text-decoration-line: underline;
+	color: #070707;
+	padding-bottom: 99px;
+	transition: opacity 1s ease;
+}
+
+.portfolio__link:hover {
+	opacity: 0.6;
+}
+
+.portfolio__link:last-of-type {
+	padding-bottom: 96px;
+}
+
+@media screen and (max-width: 767px) {
+	.portfolio__link {
+		padding-bottom: 78px;
+	}
+	.portfolio__link:last-of-type {
+		padding-bottom: 80px;
+	}
+}

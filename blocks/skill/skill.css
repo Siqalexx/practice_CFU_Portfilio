@@ -1,0 +1,15 @@
+.skill {
+	display: flex;
+	gap: 90px;
+}
+@media screen and (max-width: 980px) {
+	.skill {
+		display: flex;
+		gap: 80px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.skill {
+		flex-direction: column;
+	}
+}

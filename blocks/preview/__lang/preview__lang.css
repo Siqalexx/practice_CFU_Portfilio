@@ -1,0 +1,15 @@
+.preview__lang {
+	font-size: 16px;
+	line-height: 20px;
+	color: #828282;
+	max-width: 65px;
+	height: 20px;
+	transform: rotate(-90deg);
+	margin: 0;
+	align-self: center;
+}
+@media screen and (max-width: 767px) {
+	.preview__lang {
+		display: none;
+	}
+}
